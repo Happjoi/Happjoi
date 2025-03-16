@@ -1,32 +1,33 @@
-### 👋 Olá, eu sou João Ítalo Deodato Santos!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a020f0&height=120&section=header"/>
 
-📌 Estudante de **Análise e Desenvolvimento de Sistemas** | 3º Período no **Senac**  
-📌 Interesse em **Desenvolvimento Front-end, Back-end e Quality Assurance**  
-📌 Buscando minha primeira oportunidade no mercado de tecnologia 🚀  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a020f0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+MEU+NOME+É+JOÃO+ITALO;Seja+bem-vindo(a)!;+:%29)](https://git.io/typing-svg)
 
 ---
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+</div>
 
-### 💻 **Tecnologias & Ferramentas**
+<div align="center">
+<a href="https://github.com/Happjoi"target="_blank"> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Happjoi&show_icons=true&count_private=true&hide_border=true&title_color=a020f0&icon_color=a020f0&text_color=c9d1d9&bg_color=0d1117" alt="João Italo Github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Happjoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+<div>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 
----
 
-### 🚀 **Projetos em Destaque**
-
-🔹 **[Salão Senac - Sistema de Atendimento](#)** → Site desenvolvido para otimizar o atendimento de um salão de beleza. *(HTML, CSS, JS, MySQL)*  
-🔹 **[Projeto de QA - CESAR](#)** → Análise de um website real, identificação de bugs e garantia da qualidade do software. *(Testes Manuais & Automatizados)*  
-
-📌 **Veja mais em:** [Meus Repositórios](https://github.com/Happjoi)
-
----
-
-### 📊 **Estatísticas do GitHub**
-![João Ítalo's GitHub Stats](https://github-readme-stats.vercel.app/api?Happjoi=Happjoi&show_icons=true&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Happjoi&bg_color=000000&color=a020f0&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 📫 **Conecte-se comigo**
+<a href="https://www.instagram.com/happ.joi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-italo-deodato-889533300/)  
 📧 **Email:** italodeodato@gmail.com
 
@@ -37,6 +38,3 @@
 💡 Sempre aprendendo e explorando novas tecnologias  
 💡 Gosto de criar soluções práticas e eficientes  
 
----
-
-Se quiser adicionar mais informações ou modificar algo, me avise! 😊
