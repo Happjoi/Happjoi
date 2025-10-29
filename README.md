@@ -1,6 +1,11 @@
 # 👋 Olá — Eu sou João Italo
 > Buscando minha primeira experiência profissional em tecnologia • Gosto de criar soluções práticas e eficientes
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a020f0&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a020f0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+JO%C3%83O+ITALO;Bem-vindo!+;:%29)](https://git.io/typing-svg)
+
+
 ---
 
 ## 📚 Índice
@@ -50,17 +55,20 @@ almejo conseguir uma vaga de Desenvolvedor Junior
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/joão-italo-deodato-889533300/  
-- Email: italodeodato@gmail.com  
-- Instagram: https://www.instagram.com/happ.joi/
+<p>
+<a href="https://www.instagram.com/happ.joi/" target="_blank">Instagram</a> ·
+<a href="https://www.linkedin.com/in/joão-italo-deodato-889533300/" target="_blank">LinkedIn</a> ·
+✉️ italodeodato@gmail.com
+</p>
 
 ---
 
 ## 📈 Stats
 <p align="center">
-<a href="https://github.com/Happjoi"target="_blank"> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Happjoi&show_icons=true&count_private=true&hide_border=true&title_color=a020f0&icon_color=a020f0&text_color=c9d1d9&bg_color=0d1117" alt="João Italo Github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Happjoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Happjoi&show_icons=true&count_private=true&hide_border=true&title_color=a020f0&icon_color=a020f0&text_color=c9d1d9&bg_color=0d1117" alt="João Italo Github stats" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=Happjoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&title_color=a020f0" alt="Top languages" />
 </p>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Happjoi&bg_color=000000&color=a020f0&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Happjoi/github-readme-activity-graph)
 
 
